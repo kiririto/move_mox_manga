@@ -1,4 +1,4 @@
-[中文版](./README_ZH.md)
+[中文版](./README.md)
 
 # Move Mox Comic Files to Corresponding Folders
 
