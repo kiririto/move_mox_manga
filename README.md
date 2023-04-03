@@ -1,4 +1,4 @@
-[English Version](./README.md)
+[English Version](./README_EN.md)
 
 # 移动Mox漫画文件到相应文件夹
 
