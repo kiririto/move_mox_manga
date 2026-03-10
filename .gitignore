@@ -1,0 +1,23 @@
+# Development documentation (internal use only)
+CLAUDE.md
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Manga files (sample/test data)
+*.epub
+
+# Debug scripts
+*_debug.bat
